@@ -1,0 +1,5 @@
+filename=wmhdeg.txt
+strlat=89.75
+strlon=0.25
+reslat=0.5
+reslon=0.5
